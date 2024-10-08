@@ -1,7 +1,7 @@
 卫视,#genre#
 
-泉州一套,rtmp://live.qztv.cn/live/news
-泉州四套,rtmp://live.qztv.cn/live/mny
+泉州一套,http://rtmp://live.qztv.cn/live/news
+泉州四套,http://rtmp://live.qztv.cn/live/mny
 三明公共,http://stream.smntv.cn/smtv2/playlist.m3u8
 三明新闻,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8
 三明新闻,http://stream.smntv.cn/smtv1/playlist.m3u8
